@@ -1,0 +1,1 @@
+window.CKEDITOR_BASEPATH = '/queda/portal/sites/all/libraries/ckeditor/';

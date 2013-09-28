@@ -1,0 +1,15 @@
+name = Entity iframe
+description = A simple iFrame style display mode for entities.
+package = Entity
+core = 7.x
+dependencies[] = entity
+files[] = views/views_handler_field_entity_iframe_embed.inc
+files[] = views/views_handler_field_entity_iframe_link.inc
+configure = admin/config/system/entity_iframe
+
+; Information added by drupal.org packaging script on 2013-04-10
+version = "7.x-1.0-beta4"
+core = "7.x"
+project = "entity_iframe"
+datestamp = "1365609013"
+
